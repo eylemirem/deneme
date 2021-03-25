@@ -1,5 +1,3 @@
-This is a Czech version of Ostracism Online (Wolf et al., 2014) modified for purposes of my thesis. The following description tells a bit more about the original experimental method:
-
 Social Media Ostracism
 ======================
 
